@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file>images/play1.png</file>
+        <file>images/play2.png</file>
+        <file>images/play3.png</file>
+        <file>images/last.png</file>
+        <file>images/next.png</file>
+        <file>images/last1.png</file>
+        <file>images/next1.png</file>
+        <file>images/play4.png</file>
+        <file>images/play5.png</file>
+        <file>images/picstyle.png</file>
+        <file>images/picstyle2.png</file>
+        <file>images/nosound_dark.png</file>
+        <file>images/nosound_light.png</file>
+        <file>images/sound.png</file>
+        <file>images/bg1.png</file>
+        <file>images/图标.png</file>
+        <file>images/图标2.png</file>
+        <file>images/ico.png</file>
+        <file>images/trayplay1.png</file>
+        <file>images/trayplay2.png</file>
+        <file>images/traylast.png</file>
+        <file>images/traynext.png</file>
+        <file>images/traysound1.png</file>
+        <file>images/traysound2.png</file>
+        <file>images/traysoundless.png</file>
+        <file>images/add.png</file>
+        <file>images/mode.png</file>
+        <file>images/mini.png</file>
+        <file>images/close.png</file>
+    </qresource>
+</RCC>
